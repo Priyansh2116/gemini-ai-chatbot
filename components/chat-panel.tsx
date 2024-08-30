@@ -38,14 +38,14 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'List flights flying from',
-      subheading: 'San Francisco to Rome today',
-      message: `List flights flying from San Francisco to Rome today`
+      heading: 'Road map',
+      subheading: 'to Jee',
+      message: `Can you give me a Road map to jee`
     },
     {
-      heading: 'What is the status',
-      subheading: 'of flight BA142?',
-      message: 'What is the status of flight BA142?'
+      heading: 'Integration',
+      subheading: 'of sin x',
+      message: 'What is the integral of sin x'
     }
   ]
 
