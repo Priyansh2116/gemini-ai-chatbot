@@ -14,11 +14,11 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
     >
       Built by Priyansh using Next.js{' '}
       <ExternalLink href="https://cloud.google.com/vertex-ai">
-        Google Gemini API
+        Sunrisers Chatbot
       </ExternalLink>
       , <ExternalLink href="https://nextjs.org">Next.js</ExternalLink> and{' '}
       <ExternalLink href="https://github.com/vercel/ai">
-        Google AI SDK
+        Made with coolness 
       </ExternalLink>
       .
     </p>
