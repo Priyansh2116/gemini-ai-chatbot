@@ -14,11 +14,11 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
     >
       Built by Priyansh using Next.js{' '}
       <ExternalLink href="https://cloud.google.com/vertex-ai">
-        Sunrisers Chatbot
+        Plantdoc chatbot
       </ExternalLink>
       , <ExternalLink href="https://nextjs.org">Next.js</ExternalLink> and{' '}
       <ExternalLink href="https://github.com/vercel/ai">
-        Made with coolness 
+        Made with plants
       </ExternalLink>
       .
     </p>
