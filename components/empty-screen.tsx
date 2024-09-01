@@ -22,7 +22,7 @@ export function EmptyScreen() {
         <p className="leading-normal text-zinc-900">
           It uses{' '}
           <ExternalLink href="https://vercel.com/blog/ai-sdk-3-generative-ui">
-            React Server Components
+             Components
           </ExternalLink>{' '}
 
         </p>
