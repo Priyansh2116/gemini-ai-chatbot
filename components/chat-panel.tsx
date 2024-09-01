@@ -38,9 +38,9 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'Medicine',
+      heading: 'Precautions',
       subheading: 'for rice blast',
-      message: `Can you give me medicine for rice blast`
+      message: `Can you give me precautions for rice blast`
     },
     {
       heading: 'How to treat',
