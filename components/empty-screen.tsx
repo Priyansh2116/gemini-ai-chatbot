@@ -8,7 +8,7 @@ export function EmptyScreen() {
           PlantDoc Chatbot
         </h1>
         <p className="leading-normal text-zinc-900">
-          This is an open source AI chatbot app {' '}
+          This is an AI chatbot app {' '}
           <ExternalLink href="https://nextjs.org">Next.js</ExternalLink>, the{' '}
           <ExternalLink href="https://sdk.vercel.ai">
            Plantdoc
