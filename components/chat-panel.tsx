@@ -38,14 +38,14 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'Road map',
-      subheading: 'to Jee',
-      message: `Can you give me a Road map to jee`
+      heading: 'Medicine',
+      subheading: 'for rice blast',
+      message: `Can you give me medicine for rice blast`
     },
     {
-      heading: 'Integration',
-      subheading: 'of sin x',
-      message: 'What is the integral of sin x'
+      heading: 'How to treat',
+      subheading: 'Bacterial blight in rice',
+      message: 'How to treat bacterial blight in rice'
     }
   ]
 
