@@ -9,7 +9,7 @@ export function EmptyScreen() {
         </h1>
         <p className="leading-normal text-zinc-900">
           This is an AI chatbot app {' '}
-          <ExternalLink href="https://nextjs.org">Next.js</ExternalLink>, the{' '}
+          <ExternalLink href="https://nextjs.org">PlantDoc</ExternalLink>, the{' '}
           <ExternalLink href="https://sdk.vercel.ai">
            Plantdoc
           </ExternalLink>
