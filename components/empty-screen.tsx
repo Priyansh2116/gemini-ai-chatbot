@@ -8,10 +8,10 @@ export function EmptyScreen() {
          Solve your plant related doubts
         </h1>
         <p className="leading-normal text-zinc-900">
-          This is an open source AI chatbot app built with{' '}
+          AI chatbot app{' '}
           <ExternalLink href="https://nextjs.org">Next.js</ExternalLink>, the{' '}
           <ExternalLink href="https://sdk.vercel.ai">
-            Vercel AI SDK
+          
           </ExternalLink>
           , and{' '}
           <ExternalLink href="https://ai.google.dev">
