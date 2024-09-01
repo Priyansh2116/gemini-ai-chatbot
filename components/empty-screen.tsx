@@ -8,7 +8,7 @@ export function EmptyScreen() {
          Solve your plant related doubts
         </h1>
         <p className="leading-normal text-zinc-900">
-          This is an open source AI chatbot app template built with{' '}
+          This is an open source AI chatbot app built with{' '}
           <ExternalLink href="https://nextjs.org">Next.js</ExternalLink>, the{' '}
           <ExternalLink href="https://sdk.vercel.ai">
             Vercel AI SDK
@@ -24,10 +24,7 @@ export function EmptyScreen() {
           <ExternalLink href="https://vercel.com/blog/ai-sdk-3-generative-ui">
             React Server Components
           </ExternalLink>{' '}
-          with function calling to mix both text with generative UI responses
-          from Gemini. The UI state is synced through the AI SDK so the model is
-          always aware of your stateful interactions as they happen in the
-          browser.
+          
         </p>
       </div>
     </div>
